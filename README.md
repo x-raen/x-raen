@@ -39,6 +39,6 @@ Professional toolkit for binary analysis and automated extraction of ROP/JOP gad
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/Website-Visit-green)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/x-raen-39a6b3360)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://x.com/XRA_EN?t=uJohObhbiybv9ZpzsMKzBw&s=09)
+[![telegram](https://img.shields.io/badge/Telegram-Visit-green)](https://t.me/Q_982)
